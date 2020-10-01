@@ -42,7 +42,7 @@ autosummary_generate = True  # Make _autosummary files and include them
 extensions = [
         'sphinx.ext.autodoc',
         'sphinx.ext.autosummary',
-#        'numpydoc',
+        'numpydoc',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

@@ -5,12 +5,16 @@
 def add(a, b):
     """Adds ``a`` to ``b``.
 
-    Args:
-        a (any): First argument to add.
-        b (type of a): Second argument to add.
+    Parameters
+    ----------
+    a : any
+        First argument to add.
+    b : type of a
+        Second argument to add.
 
-    Returns:
-        type of a: The result of ``a + b``.
+    Returns
+    -------
+    type of a:
+        The result of ``a + b``.
     """
     return a + b
-
