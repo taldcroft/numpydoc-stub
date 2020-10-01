@@ -9,7 +9,7 @@ Submodules
     inner
 """
 
-from .inner import add
+from .inner import add, Junk  # noqa
 
 VERSION = "0.0.1"
 """The version of this module."""

@@ -11,6 +11,7 @@ Welcome to mod's documentation!
    :caption: Contents:
 
 .. automodule:: mod
+   :members:
 
 Indices and tables
 ==================
